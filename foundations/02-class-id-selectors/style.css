@@ -1,0 +1,21 @@
+p{
+    background-color: lightpink;
+    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+}
+
+div{
+    color: blue;
+    font-size: 36px;
+}
+
+p.cooler{
+    font-size: 24px;
+}
+
+div#ID{
+    background-color: lightgreen;
+    font-size: 24px;
+    color: black;
+    font-weight: 700;
+
+}
